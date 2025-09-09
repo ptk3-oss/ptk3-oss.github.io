@@ -10,3 +10,4 @@ author: Peter Kane
 ---
 
 This is a photo of my dog
+![DOG](/assets/img/rez.JPG)
