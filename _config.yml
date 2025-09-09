@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: CSCI 103 Website
 
 # Your name to show in the footer
-author: Some Person
+author: Peter Kane
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -54,10 +54,10 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
