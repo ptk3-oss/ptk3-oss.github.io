@@ -8,4 +8,4 @@ mathjax: true
 author: Peter Kane
 ---
 
-![DOG](/assets/img/Toby.JPG)
+![DOG](/assets/img/Toby.jpg)
