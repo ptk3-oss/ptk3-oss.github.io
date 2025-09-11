@@ -1,13 +1,12 @@
 ---
 layout: post
-title: My Dog 
-subtitle: Picture of My Dog
-cover-img: /assets/img/rez.JPG
-thumbnail-img: /assets/img/rez.JPG
-share-img: /assets/img/rez.JPG
-tags: [Dog]
+title: Information About Me  
+cover-img: 
+thumbnail-img:
+tags: [Blog Post]
 author: Peter Kane 
 ---
 
-This is a photo of my dog
-![DOG](https://ptk3-oss.github.io/assets/img/rez.JPG)
+Hi, 
+
+My name is Peter Kane. I'm a senior economics major. I've been hand-sewing, machine-sewing, quilting, and knitting since 6th grade. I've taken classes in python and java, but nothing like working with arduino or markdown. I did not do particularly well in either of them (pass failed). My boring fact is that I have 2 dogs.
