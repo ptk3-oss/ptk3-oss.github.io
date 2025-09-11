@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Information About Me  
-cover-img: https://ptk3-oss.github.io/assets/img/reservoir.PNG
-thumbnail-img: https://ptk3-oss.github.io/assets/img/reservoir.PNG
+cover-img: /assets/img/reservoir.PNG
+thumbnail-img: /assets/img/reservoir.PNG
 tags: [Blog Post]
 author: Peter Kane 
 ---
