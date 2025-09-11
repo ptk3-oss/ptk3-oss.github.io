@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Information About Me  
-cover-img: /assets/img/reservoir.PNG
-thumbnail-img: /assets/img/me.PNG
+cover-img: /assets/img/reservoir.png
+thumbnail-img: /assets/img/Me.png
 tags: [Blog Post]
 author: Peter Kane 
 ---
