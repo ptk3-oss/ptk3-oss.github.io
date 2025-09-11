@@ -8,4 +8,4 @@ mathjax: true
 author: Peter Kane
 ---
 
-![DOG](/assets/img/Toby.jpg)
+![DOG](https://ptk3-oss.github.io/assets/img/Toby.jpg)
