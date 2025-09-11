@@ -6,8 +6,8 @@ tags: [Dog]
 comments: true
 mathjax: true
 author: Peter Kane
-cover-img: /assets/img/rez.JPG
-thumbnail-img: /assets/img/rez.JPG
+cover-img: /assets/img/Toby.jpg
+thumbnail-img: /assets/img/Toby.jpg
 ---
 
 ![DOG](https://ptk3-oss.github.io/assets/img/Toby.jpg)
