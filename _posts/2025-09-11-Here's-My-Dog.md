@@ -10,4 +10,4 @@ author: Peter Kane
 ---
 
 This is a photo of my dog
-![DOG](/assets/img/rez.JPG)
+![DOG](https://ptk3-oss.github.io/assets/img/rez.JPG)
