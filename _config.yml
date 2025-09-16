@@ -1,3 +1,4 @@
+
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -51,7 +52,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ptk3@williams.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: 
   #github: daattali
 #  twitter: daattali
@@ -64,7 +64,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+instagram: p.kane0
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
