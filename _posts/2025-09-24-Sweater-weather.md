@@ -5,8 +5,6 @@ thumbnail-img: /assets/img/sweaterweather.png
 tags: [C]
 author: <Peter Kane>
 ---
-## Sweater Weather Assignment 
-
 Here are some of my outputs.
 
 - **`temperature = -55`** — *<= -50*: Extreme cold  
