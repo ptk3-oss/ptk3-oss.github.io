@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plushy Redux Post  
-thumbnail-img: /assets/img/plushy/on.jpg
+thumbnail-img: /assets/img/plushyredux/on.png
 tags: [Blog Post]
 author: Peter Kane
 ---
@@ -13,10 +13,10 @@ In this project, I defined two integer variables that represent a button (btn) a
 A tip for my past self would be to write out a table for the conditions before coding. My initial design had some redundancies, but I decided to set the LED variables to default to off, so I would only need one nested conditional block. The print block seems a little redundant still. 
 
 **LEDs On Output**  
-![prototype](/assets/img/plushyredux/on.png)
+![on](/assets/img/plushyredux/on.png)
 
 **LEDs Off Output**  
-![prototype](/assets/img/plushyredux/off.png)
+![off](/assets/img/plushyredux/off.png)
 
 **Another LEDs Off Output**  
-![prototype](/assets/img/plushyredux/off2.png)
+![off2](/assets/img/plushyredux/off2.png)
