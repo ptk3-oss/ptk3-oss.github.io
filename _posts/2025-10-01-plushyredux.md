@@ -14,7 +14,9 @@ A tip for my past self would be to write out a table for the conditions before c
 
 **LED's On Output**  
 ![prototype](/assets/img/plushyredux/on.png)
+
 **LEDs Off Output**  
 ![prototype](/assets/img/plushyredux/off.png)
+
 **Another LEDs Off Output** 
 ![prototype](/assets/img/plushyredux/off2.png)
