@@ -13,8 +13,8 @@ In this project I defined two integer variables that represent a button (btn) an
 A tip for my past self would be to write out a table for the conditions before coding. My initial design was redundant, but I decided to set the LED variables to default to off, so I would only need one nested conditional block. 
 
 **LED's On Output**  
-![prototype](/assets/img/plushyredux/on.jpg)
+![prototype](/assets/img/plushyredux/on.png)
 **LEDs Off Output**  
-![prototype](/assets/img/plushyredux/off.jpg)
+![prototype](/assets/img/plushyredux/off.png)
 **Another LEDs Off Output** 
-![prototype](/assets/img/plushyredux/off2.jpg)
+![prototype](/assets/img/plushyredux/off2.png)
