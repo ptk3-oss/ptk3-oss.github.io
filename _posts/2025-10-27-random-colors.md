@@ -3,7 +3,7 @@ layout: post
 title: Random Colors Project
 thumbnail-img: /assets/img/rand.jpg
 tags: [Arduino, RGB LED]
-author: <Peter Kane>
+author: Peter Kane
 ---
 
 Here's my random color project,
