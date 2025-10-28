@@ -17,4 +17,4 @@ Release button --> LED turns off
 A tip for my past self would be to not try to change the color every time the button is held, and to use a state variable so the LED only updates when something changes. 
 
 **On-Board LED lit up with a random color**  
-[LED](/assets/img/rand.jpg)
+![LED](/assets/img/rand.jpg)
