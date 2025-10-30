@@ -13,4 +13,4 @@ For this project, I combined all three of my previous firefly LED behaviors into
 A tip for my past self would be to use the serial monitor when unexpected things are happening. I was hesitant to use it at first, but it was very helpful when timings were going wrong. 
 
 **Sparklies Photo**
-![sparklies](assets/img/spark.jpeg)
+![sparklies](/assets/img/spark.jpeg)
