@@ -12,7 +12,7 @@ Here's My Final Project,
 
 **Motivation:** 
 
-My idea was motivated by the fact that, as a wrestler, on tournament days, the period between weigh-ins and the start of wrestling is really the only time I get to rest throughout the day, and I often like to take a nap. That being said, I really need complete darkness, hence the sleep mask, and being such a short time, if I’m woken up abruptly, like when someone has to shake me awake, it can really hurt the quality of my warm-up and early matches.
+My idea was motivated by the fact that, as a wrestler, on tournament days, the period between weigh-ins and the start of wrestling is really the only time I get to rest throughout the day, and I often like to take a nap. That being said, I really need complete darkness, hence the sleep mask, and given a short time, if I’m woken up abruptly, like when someone has to shake me awake, it can really hurt the quality of my warm-up and early matches.
 
 **Description:** 
 
@@ -41,7 +41,7 @@ I made a sleep mask that acts like a mini sunrise alarm clock, so when the weare
 
 I only used one LED for each of the LED traces on the alligator clip prototype because I didn't have enough clips, but they were running in parallel, so it modeled the behavior anyway. 
 
-![Aligator Clip](/assets/img/AlligatorClip.jpg)
+![Alligator Clip](/assets/img/AlligatorClip.jpg)
 
 **Working Video**
 
