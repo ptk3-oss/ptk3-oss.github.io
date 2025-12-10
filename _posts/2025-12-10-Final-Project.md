@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Final Project Write Up
-thumbnail-img: /assets/img/.jpg
+thumbnail-img: /assets/img/Paper Prototype.jpg
 tags: [Arduino, Arrays]
 author: Peter Kane
 ---
-
-Here's My Final Project, 
-
-**Cat Nap Sleep Mask**
+** My Cat Nap Sleep Mask**
 
 **Motivation:** 
 
