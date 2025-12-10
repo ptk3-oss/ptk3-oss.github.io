@@ -41,12 +41,13 @@ I made a sleep mask that acts like a mini sunrise alarm clock, so when the weare
 
 I only used one LED for each of the LED traces on the alligator clip prototype because I didn't have enough clips, but they were running in parallel, so it modeled the behavior anyway. 
 
-![Aligator Clip](/assets/img/Alligator Clip.jpg)
+![Aligator Clip](/assets/img/AlligatorClip.jpg)
 
 **Working Video**
 
 [![Working Video](http://img.youtube.com/vi/7uxRzHIFx3Q/0.jpg)](http://www.youtube.com/watch?v=7uxRzHIFx3Q)
 
+^Click for video
 
 **Tips for Myself**
 
