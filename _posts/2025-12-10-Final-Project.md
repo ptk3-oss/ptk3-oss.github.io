@@ -55,4 +55,6 @@ I only used one LED for each of the LED traces on the alligator clip prototype b
 * Be creative with how you connect and insulate things. I ended up using snaps as a way to pass my connections through 3 layers of fabric, and being creative like that was very important for getting my project to work. 
 
 
+Pattern From: https://no.pinterest.com/pin/610448924530430568/
+
 
