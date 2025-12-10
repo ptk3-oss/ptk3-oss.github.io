@@ -45,7 +45,7 @@ I only used one LED for each of the LED traces on the alligator clip prototype b
 
 **Working Video**
 
-![Working](/assets/img/Working2.mov)
+![video](https://youtu.be/7uxRzHIFx3Q)
 
 
 **Tips for Myself**
